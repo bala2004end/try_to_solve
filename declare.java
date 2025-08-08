@@ -1,4 +1,4 @@
-/*Write a c program to accept the array from the user and print the array from left to right
+/*Write a java program to accept the array from the user and print the array from left to right
 
 Input Format
 
