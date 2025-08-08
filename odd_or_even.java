@@ -1,4 +1,4 @@
-/*Write a C program to check the number is odd or even using conditional construct
+/*Write a java program to check the number is odd or even using conditional construct
 
 Input Format
 
