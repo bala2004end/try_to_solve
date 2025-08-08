@@ -1,4 +1,4 @@
-/*Write a C program to check the values are equal or not
+/*Write a java program to check the values are equal or not
 
 Input Format
 
